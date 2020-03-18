@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio 4</string>
+    <string name="dividir_contar_por">Dividir contar por:</string>
+    <string name="couvert_art_sitico_r">Couvert artísitico R$:</string>
+    <string name="consumo_total_r">Consumo total R$:</string>
+    <string name="calcular_conta_final">Calcular conta final</string>
+</resources>
